@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**AlisaMikhailovnaKujou/AlisaMikhailovnaKujou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alya, a beginner developer from California. I have a passion for learning and currently focusing on enhancing my programming skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning JavaScript.
+- 🐍 I have experience with Python.
+- 💻 I enjoy working on projects that help me grow my coding skills.
+- 📍 California.
+
+## Get in Touch
+
+Feel free to reach out to me through my [GitHub profile](https://github.com/AlisaMikhailovnaKujou) 
+
+Looking forward to connecting with fellow developers and collaborating on exciting projects!
